@@ -1,0 +1,29 @@
+{
+  "name": "syncrozz-image-1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:staff": "node scripts/build-staff.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syncrozz/syncrozz-assets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/syncrozz/syncrozz-assets/issues"
+  },
+  "homepage": "https://github.com/syncrozz/syncrozz-assets#readme",
+  "dependencies": {
+    "fast-glob": "^3.3.3",
+    "sharp": "^0.35.3"
+  }
+}
