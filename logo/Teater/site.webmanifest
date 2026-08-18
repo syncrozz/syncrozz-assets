@@ -1,6 +1,10 @@
 {
   "name": "Teater KPMBP",
   "short_name": "Teater KPMBP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#F8C000",
   "icons": [
     {
       "src": "web-app-manifest-192x192.png",
@@ -12,8 +16,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "theme_color": "#000000",
-  "background_color": "#000000",
-  "display": "standalone"
+  ]
 }
