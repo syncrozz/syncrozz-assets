@@ -1,19 +1,21 @@
 {
-  "name": "RC Fun Ride",
-  "short_name": "RC Fun Ride",
+  "name": "RC Zone",
+  "short_name": "RC Zone",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "/android-chrome-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
-  "theme_color": "#071B3D",
-  "background_color": "#071B3D",
+  "theme_color": "#11131A",
+  "background_color": "#11131A",
   "display": "standalone"
 }
