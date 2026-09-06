@@ -1,21 +1,19 @@
 {
-  "name": "RC Zone",
-  "short_name": "RC Zone",
+  "name": "RC ZONE",
+  "short_name": "RC ZONE",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "web-app-manifest-192x192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "web-app-manifest-512x512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ],
-  "theme_color": "#11131A",
-  "background_color": "#11131A",
+  "theme_color": "#11151a",
+  "background_color": "#11151a",
   "display": "standalone"
 }
